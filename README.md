@@ -1,1 +1,2 @@
-# exploring-car_racing_game_2
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
